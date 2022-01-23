@@ -1,1 +1,1 @@
-##Patika platformu html eğitim kapsamında yaptığım 2.ödev.
+##Basic html 2
